@@ -1,5 +1,12 @@
-<h1 align="center">Hi 👋, I'm James</h1>
+<h1 align="center">Hello!!! 👋, I'm James</h1>
+
 <h3 align="center">A newbie web lover from Hong Kong</h3>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" alt="animated" />
+</p>
+
+<hr>
 
 - 🌱 I’m currently learning **MERN Stack**
 
