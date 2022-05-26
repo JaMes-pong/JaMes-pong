@@ -40,3 +40,10 @@
 <ul>
   <li>Git</li>
 </ul>
+
+<hr>
+
+<h2 align="left">✏Project:</h2>
+<ul>
+  <li>My first React project - Mememo: https://mememotools.netlify.app/</li>
+</ul>
