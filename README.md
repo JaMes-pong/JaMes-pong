@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **PHP, React, MySQL etc.**
 
-- 📫 How to reach me **mrjpm75@gmail.com**
+- 📫 How to reach me **https://jameschan-dev.netlify.app/**
 
 <hr>
 
@@ -47,4 +47,5 @@
 <ul>
   <li>My first React project - Mememo: https://mememotools.netlify.app/</li>
   <li>Offical Website of Project Zephyr City - Minecraft map: https://zephyrcity-project.netlify.app/</li>
+  <li>My Portfolio: https://jameschan-dev.netlify.app/</li>
 </ul>
