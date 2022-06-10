@@ -45,7 +45,7 @@
 
 <h2 align="left">✏Project:</h2>
 <ul>
+  <li>My Portfolio: https://jameschan-dev.netlify.app/</li>
   <li>My first React project - Mememo: https://mememotools.netlify.app/</li>
   <li>Offical Website of Project Zephyr City - Minecraft map: https://zephyrcity-project.netlify.app/</li>
-  <li>My Portfolio: https://jameschan-dev.netlify.app/</li>
 </ul>
