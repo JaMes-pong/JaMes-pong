@@ -1,6 +1,6 @@
 <h1 align="center">Hello!!! 👋, I'm James</h1>
 
-<h3 align="center">A newbie web lover from Hong Kong</h3>
+<h3 align="center">A web developer from Hong Kong</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" alt="animated" />
@@ -8,9 +8,9 @@
 
 <hr>
 
-- 🌱 I’m currently learning **MERN Stack, React Native**
+- 🌱 I’m currently working on **NodeJS, ReactJS, C# Web Service**
 
-- 💬 Ask me about **PHP, React, MySQL etc.**
+- 💬 Ask me about **JavaScript, ReactJS, MySQL etc.**
 
 - 📫 How to reach me **https://jameschan-dev.netlify.app/**
 
@@ -22,9 +22,9 @@
 <ul>
   <li>HTML 5</li>
   <li>CSS3</li>
-  <li>Bootstrap</li>
+  <li>Bootstrap, Material UI</li>
   <li>JavaScript, NodeJS, Express</li>
-  <li>React</li>
+  <li>ReactJS</li>
   <li>PHP</li>
   <li>Java</li>
   <li>C#</li>
