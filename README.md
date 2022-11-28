@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently working on **NodeJS, ReactJS, C# Web Service**
 
-- 💬 Ask me about **JavaScript, ReactJS, MySQL etc.**
+- 💬 Ask me about **JavaScript, ReactJS, Svelte etc.**
 
 - 📫 How to reach me **https://jameschan-dev.netlify.app/**
 
@@ -24,6 +24,7 @@
   <li>CSS3</li>
   <li>Bootstrap, Material UI</li>
   <li>JavaScript, NodeJS, Express</li>
+  <li>Svelte</li>
   <li>ReactJS</li>
   <li>PHP</li>
   <li>Java</li>
