@@ -8,7 +8,7 @@
 
 <hr>
 
-- 🌱 I’m currently working on **NodeJS, ReactJS, C# Web Service**
+- 🌱 I’m currently working on **Web API in .NET 6**
 
 - 💬 Ask me about **JavaScript, ReactJS, Svelte etc.**
 
